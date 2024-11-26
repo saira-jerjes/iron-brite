@@ -1,0 +1,14 @@
+[
+    {
+        "id": "e505b71c-2cee-4427-bba9-9d3a6d2059bf",
+        "title": "Raudamatic AI Talks - Historias reales de IA en empresas",
+        "location": "Google for Startups Campus",
+        "categories": ["ia", "music", "art"]
+    },
+    {
+        "id": "adbbae8a-7beb-4e19-97bf-501a9ebfcca3",
+        "title": "Data Saturday Madrid 2024 (SQLSaturdayMadrid)",
+        "location": "Escuela Técnica Superior de Ingeniería de Sistemas Informáticos UPM ETSI",
+        "categories": ["bigdata", "edu", "sql"]
+    }
+]
